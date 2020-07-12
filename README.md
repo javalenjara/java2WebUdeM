@@ -6,10 +6,12 @@ Curso dictado por el profesor Walter Llano.
 #Descripcion
 Este proyecto contiene los entregables para la agencia inmobiliaria, la cual se propuso como proyecto entregable para pasar el curso.
 
-#IDE
+#IDE utilizado
 Spring Tool Suite STS
 
 #Spring
 - Web
 - JPA - Hibernate
-- 
+- REST services
+- JWT
+- Spring security
